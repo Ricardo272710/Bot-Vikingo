@@ -10,8 +10,8 @@ export async function before(m, {conn, isAdmin, isBotAdmin, isOwner, isROwner}) 
   if (bot.antiPrivate && !isOwner && !isROwner) {
     await m.reply(` @${m.sender.split`@`[0]}, 𝘼𝙡 𝙌𝙪𝙚𝙧𝙚𝙧 𝙃𝙖𝙗𝙡𝙖𝙧 𝘼𝙡 𝙋𝙧𝙞𝙫𝙖𝙙𝙤 seras \n\n𝘽𝙡𝙤𝙦𝙪𝙚𝙖𝙙𝙤
    Hola🪄
-Hablas con ESTRELLA BOT💗
-Si quieres adquirir el bot puedes escribirle a mi dueña
+Hablas con VIKINGO BOT
+Si quieres adquirir el bot puedes escribirle a mi dueño
 `, false, {mentions: [m.sender]});
     await this.updateBlockStatus(m.chat, 'block');
   }
