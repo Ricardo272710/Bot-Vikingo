@@ -84,44 +84,44 @@ const horarioFecha = lugarFecha.format('dddd, DD [de] MMMM [del] YYYY || HH:mm A
 
 let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.genero == 'Ocultado 🕶️' ? `🕶️` : user.genero == 'Mujer 🚺' ? `🚺` : user.genero == 'Hombre 🚹' ? `🚹` : '👤'} ${user.registered === true ? user.name : username}*${(conn.user.jid == global.conn.user.jid ? '' : `\n*SOY SUB BOT DE: https://wa.me/${global.conn.user.jid.split`@`[0]}*`) || ''}
 
-*〔 🌸ESTRELLA BOT🌸〕
+*┃VINKINGO BOT¹┃
 
-╭━🎀ESTRELLA🎀━⬣
+╭━⚓ESTRELLA⚓━⬣
 ┃ACTIVO: 28.07.2024
 ╰━━━━━━━━━━━⬣
 ╭━〔COMANDOS〕━⬣
-┃.menu | .comandos
-💅🏻👑👥💅🏻👑👥💅🏻👑👥
+┃.menu | . comando 
+🦖🦖🦈🦖🦈🐊🦈
 ┃PERMANENTE | MENSUAL
 ╰━━━━━━━━━━━⬣
 
 ╭━〔 VS/REGLAS/FICHA〕━⬣
-┃💄➺ .Fem4
-┃💄➺ .Fem6
-┃💄➺ .FemInterna4
-┃💄➺ .FemInterna6
-┃💄➺ .Masc4
-┃💄➺ .Masc6
-┃💄➺ .MascInterna4
-┃💄➺ .MascInterna6
-┃💄➺ .Mixto4
-┃💄➺ .Mixto6
-┃💄➺ .MixtoInterna4
-┃💄➺ .MixtoInterna6
-┃💄➺ .guerra
-┃💄➺ .reglasclk
-┃💄➺ .apos
-┃💄➺ .Ficha / jugador
-┃💄➺ .Vs4
-┃💄➺ .Vs6
-┃💄➺ .Vs8
-┃💄➺ .Vs12
-┃💄➺ .Vs16
-┃💄➺ .Vs20
+┃🦖➺ .Fem4
+┃🦖➺ .Fem6
+┃🦖➺ .FemInterna4
+┃🦖➺ .FemInterna6
+┃🦖➺ .Masc4
+┃🦖➺ .Masc6
+┃🦖➺ .MascInterna4
+┃🦖➺ .MascInterna6
+┃🦖➺ .Mixto4
+┃🦖➺ .Mixto6
+┃🦖➺ .MixtoInterna4
+┃🦖➺ .MixtoInterna6
+┃🦖➺ .guerra
+┃🦖➺ .reglasclk
+┃🦖➺ .apos
+┃🦖➺ .Ficha / jugador
+┃🦖➺ .Vs4
+┃🦖➺ .Vs6
+┃🦖➺ .Vs8
+┃🦖➺ .Vs12
+┃🦖➺ .Vs16
+┃🦖➺ .Vs20
 ╰━━━━━━━━━━━⬣
 
 ╭━〔 TREND TIK TOK 〕⬣
-┃👯‍♀️👯‍♂️➺ .Trendtiktok
+┃ 🐢🐢🐢➺ .Trendtiktok
 ╰━━━━━━━━━━━⬣
 
 ╭━ MULTI JUEGOS ━⬣
@@ -170,61 +170,61 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ┃👑➺ .reto
 ╰━━━━━━━━━━━⬣
 
-╭━━━[ AJUSTES - CHATS ]━━━⬣
-┃🛠️ .on : off bienvenida
-┃🛠️ .on : off avisos
-┃🛠️ .on : off restringir
-┃🛠️ .on : off antillamar
-┃🛠️ .on : off publico
-┃🛠️ .on : off autovisto
-┃🛠️ .on : off temporal
-┃🛠️ .on : off stickers
-┃🛠️ .on : off autosticker
-┃🛠️ .on : off reacciones
-┃🛠️ .on : off audios
-┃🛠️ .on : off modocaliente
-┃🛠️ .on : off antitoxicos
-┃🛠️ .on : off antiver
-┃🛠️ .on : off antieliminar
-┃🛠️ .on : off antinternacional
-┃🛠️ .on : off antienlace
-┃🛠️ .on : off antienlace2
-┃🛠️ .on : off antitiktok
-┃🛠️ .on : off antiyoutube
-┃🛠️ .on : off antitelegram
-┃🛠️ .on : off antifacebook
-┃🛠️ .on : off antinstagram
-┃🛠️ .on : off antitwitter
-┃🛠️ .on : off soloprivados
-┃🛠️ .on : off sologrupos
+╭🫧━━━[ AJUSTES - CHATS ]━━━⬣🫧
+┃⚒️ .on : off bienvenida
+┃⚒️ .on : off avisos
+┃⚒️ .on : off restringir
+┃⚒️ .on : off antillamar
+┃⚒️ .on : off publico
+┃⚒️ .on : off autovisto
+┃⚒️ .on : off temporal
+┃⚒️ .on : off stickers
+┃⚒️ .on : off autosticker
+┃⚒️ .on : off reacciones
+┃⚒️ .on : off audios
+┃⚒️ .on : off modocaliente
+┃⚒️ .on : off antitoxicos
+┃⚒️ .on : off antiver
+┃⚒️ .on : off antieliminar
+┃⚒️ .on : off antinternacional
+┃⚒️ .on : off antienlace
+┃⚒️ .on : off antienlace2
+┃⚒️ .on : off antitiktok
+┃⚒️ .on : off antiyoutube
+┃⚒️ .on : off antitelegram
+┃⚒️ .on : off antifacebook
+┃⚒️ .on : off antinstagram
+┃⚒️ .on : off antitwitter
+┃⚒️ .on : off soloprivados
+┃⚒️ .on : off sologrupos
 ╰━━━━━━━━━━━⬣
 
 ╭━〔 G. RESUMEN 〕━⬣
-┃📋➺ .configuracion
-┃📋➺ .settings
-┃📋➺ .vergrupo
+┃📑➺ .configuracion
+┃📑➺ .settings
+┃📑➺ .vergrupo
 ╰━━━━━━━━━━━⬣
 
 ╭━[ DESCARGAS ]━⬣
-┃💅🏻➺ .imagen | image texto
-┃💅🏻➺ .pinterest | texto
-┃💅🏻➺ .wallpaper|wp texto
-┃💅🏻➺ .play | play2 texto link
-┃💅🏻➺ .tw |twdl | twitter link
-┃💅🏻➺ .facebook | fb link
-┃💅🏻➺ .verig | usuario(a)
-┃💅🏻➺ .ighistoria | usuario(a)
-┃💅🏻➺ .tiktok link
-┃💅🏻➺ .tiktokimagen | link
-┃💅🏻➺ .tiktokfoto | usuario(a)
-┃💅🏻➺ .vertiktok | usuario(a)
-┃💅🏻➺ .mediafire | link
-┃💅🏻➺ .clonarepo | link
-┃💅🏻➺ .consejo
-┃💅🏻➺ .morse codificar texto
-┃💅🏻➺ .morse decodificar
-┃💅🏻➺ .fraseromantica
-┃💅🏻➺ .historia
+┃🦈➺ .imagen | image texto
+┃🦈➺ .pinterest | texto
+┃🦈➺ .wallpaper|wp texto
+┃🦈➺ .play | play2 texto link
+┃🦈➺ .tw |twdl | twitter link
+┃🦈➺ .facebook | fb link
+┃🦈➺ .verig | usuario(a)
+┃🦈➺ .ighistoria | usuario(a)
+┃🦈➺ .tiktok link
+┃🦈➺ .tiktokimagen | link
+┃🦈➺ .tiktokfoto | usuario(a)
+┃🦈➺ .vertiktok | usuario(a)
+┃🦈➺ .mediafire | link
+┃🦈➺ .clonarepo | link
+┃🦈➺ .consejo
+┃🦈➺ .morse codificar texto
+┃🦈➺ .morse decodificar
+┃🦈➺ .fraseromantica
+┃🦈➺ .historia
 ╰━━━━━━━━━━━⬣
 
 ╭━[ CHAT ANONIMO ]━⬣
@@ -282,64 +282,64 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 
 
 ╭━━━[ EFECTOS ]━━⬣
-┃🪞 .simpcard @tag
-┃🪞 .hornycard @tag
-┃🪞 .lolice @tag
-┃🪞 .ytcomment texto
-┃🪞 .itssostupid
-┃🪞 .pixelar
-┃🪞 .blur
+┃🔍 .simpcard @tag
+┃🔍 .hornycard @tag
+┃🔍 .lolice @tag
+┃🔍 .ytcomment texto
+┃🔍 .itssostupid
+┃🔍 .pixelar
+┃🔍 .blur
 ╰━━━━━━━━━━━⬣
 
 ╭━[ RANDOM | ANIME ]━⬣
-┃🧸 .chico
-┃🧸 .cristianoronaldo
-┃🧸 .meme
-┃🧸 .meme2
-┃🧸 .itzy
-┃🧸 .blackpink
-┃🧸 .kpop blackpink : exo : bts
-┃🧸 .lolivid
-┃🧸 .loli
-┃🧸 .navidad
-┃🧸 .ppcouple
-┃🧸 .neko
-┃🧸 .waifu
-┃🧸 .akira
-┃🧸 .akiyama
-┃🧸 .anna
-┃🧸 .asuna
-┃🧸 .ayuzawa
-┃🧸 .boruto
-┃🧸 .chiho
-┃🧸 .chitoge
-┃🧸 .deidara
-┃🧸 .erza
-┃🧸 .elaina
-┃🧸 .eba
-┃🧸 .emilia
-┃🧸 .hestia
-┃🧸 .hinata
-┃🧸 .inori
-┃🧸 .isuzu
-┃🧸 .itachi
-┃🧸 .itori
-┃🧸 .kaga
-┃🧸 .kagura
-┃🧸 .kaori
-┃🧸 .keneki
-┃🧸 .kotori
-┃🧸 .kurumi
-┃🧸 .madara
-┃🧸 .mikasa
-┃🧸 .miku
-┃🧸 .minato
-┃🧸 .naruto
-┃🧸 .nezuko
-┃🧸 .sagiri
-┃🧸 .sasuke
-┃🧸 .sakura
-┃🧸 .cosplay
+┃🐦‍🔥 .chico
+┃🐦‍🔥 .cristianoronaldo
+┃🐦‍🔥 .meme
+┃🐦‍🔥 .meme2
+┃🐦‍🔥 .itzy
+┃🐦‍🔥 .blackpink
+┃🐦‍🔥 .kpop blackpink : exo : bts
+┃🐦‍🔥 .lolivid
+┃🐦‍🔥 .loli
+┃🐦‍🔥 .navidad
+┃🐦‍🔥 .ppcouple
+┃🐦‍🔥 .neko
+┃🐦‍🔥 .waifu
+┃🐦‍🔥 .akira
+┃🐦‍🔥 .akiyama
+┃🐦‍🔥 .anna
+┃🐦‍🔥 .asuna
+┃🐦‍🔥 .ayuzawa
+┃🐦‍🔥 .boruto
+┃🐦‍🔥 .chiho
+┃🐦‍🔥 .chitoge
+┃🐦‍🔥 .deidara
+┃🐦‍🔥 .erza
+┃🐦‍🔥 .elaina
+┃🐦‍🔥 .eba
+┃🐦‍🔥 .emilia
+┃🐦‍🔥 .hestia
+┃🐦‍🔥 .hinata
+┃🐦‍🔥 .inori
+┃🐦‍🔥 .isuzu
+┃🐦‍🔥 .itachi
+┃🐦‍🔥 .itori
+┃🐦‍🔥 .kaga
+┃🐦‍🔥 .kagura
+┃🐦‍🔥 .kaori
+┃🐦‍🔥 .keneki
+┃🐦‍🔥 .kotori
+┃🐦‍🔥 .kurumi
+┃🐦‍🔥 .madara
+┃🐦‍🔥 .mikasa
+┃🐦‍🔥 .miku
+┃🐦‍🔥 .minato
+┃🐦‍🔥.naruto
+┃🐦‍🔥.nezuko
+┃🐦‍🔥 .sagiri
+┃🐦‍🔥 .sasuke
+┃🐦‍🔥 .sakura
+┃🐦‍🔥.cosplay
 ╰━━━━━━━━━━━⬣
 
 ╭━[ MODIFICAR AUDIO]⬣
@@ -358,29 +358,29 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ╰━━━━━━━━━━━⬣
 
 ╭━━[ BÚSQUEDAS🔍]━⬣
-┃🕵️‍♀️➺ .animeinfo texto
-┃🕵️‍♀️➺ .mangainfo texto
-┃🕵️‍♀️➺ .google texto
-┃🕵️‍♀️➺ .googlelyrics texto
-┃🕵️‍♀️➺ .letra | lirik texto
-┃🕵️‍♀️➺ .ytsearch | yts texto
-┃🕵️‍♀️➺ .wiki | wikipedia texto
+┃🗾➺ .animeinfo texto
+┃🏙️➺ .mangainfo texto
+┃🌐➺ .google texto
+┃🗺️➺ .googlelyrics texto
+┃🗾➺ .letra | lirik texto
+┃🌐➺ .ytsearch | yts texto
+┃🌐➺ .wiki | wikipedia texto
 ╰━━━━━━━━━━━⬣
 
 ╭━[ HERRAMIENTAS ]━⬣
 ┃ .afk motivo
-┃🔩 .acortar url
-┃🔩 .calc operacion math
-┃🔩 .del respondre a mensaje del Bot
-┃🔩 .qrcode texto
-┃🔩 .readmore texto1|texto2
-┃🔩 .spamwa numero|texto|cantidad
-┃🔩 .styletext texto
-┃🔩 .traducir texto
-┃🔩 .morse codificar texto
-┃🔩 .morse decodificar morse
-┃🔩 .encuesta | poll Motivo
-┃🔩 .horario
+┃🧞‍♂️ .acortar url
+┃🧞‍♂️ .calc operacion math
+┃🧞‍♂️ .del respondre a mensaje del Bot
+┃🧞‍♂️ .qrcode texto
+┃🧞‍♂️ .readmore texto1|texto2
+┃🗯️ .spamwa numero|texto|cantidad
+┃🧞‍♂️ .styletext texto
+┃🧞‍♂️ .traducir texto
+┃🧞‍♂️ .morse codificar texto
+┃🧞‍♂️ .morse decodificar morse
+┃🧞‍♂️ .encuesta | poll Motivo
+┃🧞‍♂️ .horario
 ╰━━━━━━━━━━━⬣
 
 ╭━[ FUNCIÓN RPG ]━⬣
@@ -436,11 +436,11 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 ╰━━━━━━━━━━━⬣
 
 ╭━[S. DINÁMICOS ]━⬣
-┃🍄 .palmaditas | pat @tag
-┃🍄 .bofetada | slap @tag
-┃🍄 .golpear @tag
-┃🍄 .besar | kiss @tag
-┃🍄 .alimentar | food @tag
+┃🗡️ .palmaditas | pat @tag
+┃🗡️ .bofetada | slap @tag
+┃ 🗡️ .golpear @tag
+┃🗡️  .besar | kiss @tag
+┃🗡️  .alimentar | food @tag
 ╰━━━━━━━━━━━⬣
 
 ╭━[ PROPIETARIO/A ]━⬣
