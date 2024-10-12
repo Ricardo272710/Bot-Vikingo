@@ -12,7 +12,7 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 // [EN] > Add the number that will be Bot and those that will be owners.
 global.owner = [
-["1(829)2184151", 'ESTRELLA BOT 🌸', true], //𝗗𝗿𝗮𝗴𝗼𝗻 𝗕𝗼𝘁 🐉
+["1(829)2184151", 'VIKINGO BOT', true], //𝗗𝗿𝗮𝗴𝗼𝗻 𝗕𝗼𝘁 🐉
 ["593979133620"]]
 
 global.mods = []
