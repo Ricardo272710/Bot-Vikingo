@@ -1,13 +1,13 @@
 const handler = async (m, {conn}) => {
-  m.reply(global.vs8fem);
+  m.reply(global.creador);
 };
-handler.command = /^(vs8fem|vs8fem)$/i;
+handler.command = /^(creadores|creador)$/i;
 export default handler;
 handler.admin = true
 handler.group = true
 handler.botAdmin = true
 
-global.vs8fem = `
+global.creador = `
 * ESTOS SON LOS NUMEROS DE MIS CREADORES
 +1 (829) 218-4151
 `;
