@@ -10,4 +10,5 @@ handler.botAdmin = true
 global.creador = `
 * ESTOS SON LOS NUMEROS DE MIS CREADORES
 +1 (829) 218-4151
++1 (504) 209-8808
 `;
