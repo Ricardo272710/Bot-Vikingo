@@ -163,7 +163,7 @@ global.mal = mg
 global.eeg = '╰⊱🗯️⊱ *𝙍𝙀𝙋𝙊𝙍𝙏𝙀 | 𝙍𝙀𝙋𝙊𝙍𝙏* ⊱🗯️⊱╮\n\n'
 global.envio = eeg
 
-global.eg = '╰⊱💠⊱ *𝙀́𝙓𝙄𝙏𝙊 | 𝙎𝙐𝘾𝘾𝙀𝙎𝙎* ⊱💠⊱╮\n\n'
+global.eg = '╰⊱💠⊱ *𝙀́𝙓𝙄𝙏𝙊* | 𝙎𝙐𝘾𝘾𝙀𝙎𝙎* ⊱💠⊱╮\n\n'
 global.exito = eg
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
